@@ -1,5 +1,5 @@
 ## ロジック
-from models.image_processor import ImageProcessor
+from src.models.image_processor import ImageProcessor
 import cv2
 
 class MainController:
